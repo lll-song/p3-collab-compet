@@ -79,10 +79,10 @@ Run the `Tennis.ipynb` Notebook to train the model and plot the results
 
 Apart from the Readme.md and the requirements.txt file this repository consists of the following files:
 
-agent.py: Agent and ReplayBuffer classes with all required functions
-model.py: Actor and Critc Network classes
-Tennis.ipynb: Notebook of training and running the agent
-checkpoint_actor.pth: Contains the weights of a successful Actor Network
-checkpoint_critic.pth: Contains the weights of a successful Critic Network
-checkpoint_critic.pth: Contains the weights of a successful Critic Network
-Report.pdf: Details of learning algorithm and parameters, as well as future ideas for improving the agent's performance
+- agent.py: Agent and ReplayBuffer classes with all required functions
+- model.py: Actor and Critc Network classes
+- Tennis.ipynb: Notebook of training and running the agent
+- checkpoint_actor.pth: Contains the weights of a successful Actor Network
+- checkpoint_critic.pth: Contains the weights of a successful Critic Network
+- checkpoint_critic.pth: Contains the weights of a successful Critic Network
+- Report.pdf: Details of learning algorithm and parameters, as well as future ideas for improving the agent's performance
