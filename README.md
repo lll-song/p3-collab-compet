@@ -67,13 +67,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
-
-
-2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
-
-### Instructions
-
-Run the `Tennis.ipynb` Notebook to train the model and plot the results
+1. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
+2. Run the `Tennis.ipynb` Notebook to train the model and plot the results
 
 ### Structure of repository
 
